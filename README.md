@@ -16,10 +16,11 @@ Welcome to my GitHub profile! I'm passionate about data science. Here you'll fin
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, AWS
 - **Data Visualization tools:** Power BI, Tableau
-
+<!-- 
 ## 📈 GitHub Stats
 
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarrrakesh08&show_icons=true&theme=radical)
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarrrakesh08&show_icons=true&theme=radical) 
+-->
 
 ## 📫 Connect with Me
 
