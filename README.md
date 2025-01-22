@@ -1,19 +1,18 @@
 # Hi there, I'm Rakesh Pawar! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development, data science, and open-source contributions. Here you'll find a collection of my projects, experiments, and collaborations.
+Welcome to my GitHub profile! I'm passionate about data science. Here you'll find a collection of my projects, experiments, and collaborations.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects related to data science and web development.
-- 💬 Ask me about Python, JavaScript, and machine learning.
+- 👯 I’m looking to collaborate on open-source projects related to data science.
+- 💬 Ask me about Python and machine learning.
 - 📫 How to reach me: [pawarrrakesh08@gmail.com](mailto:pawarrrakesh08@gmail.com)
 - ⚡ Fun fact: I love playing chess and exploring new technologies.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, AWS
 
@@ -30,8 +29,8 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of the latest blog post](#)
-- [Another blog post title](#)
+<!-- - [Title of the latest blog post](#)
+- [Another blog post title](#) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
