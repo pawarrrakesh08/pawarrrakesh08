@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about data science. Here you'll fin
 - **Frameworks:** Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, AWS
+- **Data Visualization tools:** Power BI, Tableau
 
 ## 📈 GitHub Stats
 
