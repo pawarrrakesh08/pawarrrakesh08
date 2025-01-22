@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about data science. Here you'll fin
 - [Another blog post title](#) -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🏆 GitHub Trophies
+<!--  ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pawarrrakesh08&theme=radical)
 
@@ -42,6 +42,6 @@ Welcome to my GitHub profile! I'm passionate about data science. Here you'll fin
 
 - [Project 1](https://github.com/pawarrrakesh08/project1): Brief description of project 1.
 - [Project 2](https://github.com/pawarrrakesh08/project2): Brief description of project 2.
-- [Project 3](https://github.com/pawarrrakesh08/project3): Brief description of project 3.
+- [Project 3](https://github.com/pawarrrakesh08/project3): Brief description of project 3. -->
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
